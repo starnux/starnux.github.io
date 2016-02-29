@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Starnux.net - Home of Code</title>
+    <link>http://starnux.github.io/</link>
+    <description>Recent content on Starnux.net - Home of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Feb 2016 15:42:11 +0100</lastBuildDate>
+    <atom:link href="http://starnux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GIT, GIT, … GIT !</title>
+      <link>http://starnux.github.io/post/git/</link>
+      <pubDate>Mon, 29 Feb 2016 15:42:11 +0100</pubDate>
+      
+      <guid>http://starnux.github.io/post/git/</guid>
+      <description>&lt;p&gt;Git access has been put back !&lt;/p&gt;
+
+&lt;p&gt;=&amp;gt; &lt;a href=&#34;http://git.starnux.net&#34;&gt;http://git.starnux.net&lt;/a&gt; with school code and projects !&lt;/p&gt;
+
+&lt;p&gt;Access is with the git protocol : git clone git://git.starnux.net/theproject.git&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New frontend website !</title>
+      <link>http://starnux.github.io/post/first/</link>
+      <pubDate>Mon, 29 Feb 2016 15:42:09 +0100</pubDate>
+      
+      <guid>http://starnux.github.io/post/first/</guid>
+      <description>&lt;p&gt;Hugo (&lt;a href=&#34;https://gohugo.io&#34;&gt;https://gohugo.io&lt;/a&gt;) with GitHub pages is handling Starnux.net blog !!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
