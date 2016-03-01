@@ -6,8 +6,67 @@
     <description>Recent content in Posts on Starnux.net - Home of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Feb 2016 15:42:11 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Mar 2016 09:49:01 +0100</lastBuildDate>
     <atom:link href="http://starnux.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IP Adress discovery service</title>
+      <link>http://starnux.github.io/post/ip/</link>
+      <pubDate>Tue, 01 Mar 2016 09:49:01 +0100</pubDate>
+      
+      <guid>http://starnux.github.io/post/ip/</guid>
+      <description>&lt;p&gt;Starnux.net offer a very simple service :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ip.starnux.net&#34;&gt;http://ip.starnux.net&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;That prints the current IP addresse you are using :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Votre adresse IP est 91.64.244.31
+
+Vous accedez a ce serveur en IPv4
+
+JSON output : here
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can also get a JSON output at :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ip.starnux.net/json.php&#34;&gt;http://ip.starnux.net/json.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{ &amp;quot;ip&amp;quot;: &amp;quot;91.64.244.31&amp;quot;, &amp;quot;protocol&amp;quot;: &amp;quot;IPv4&amp;quot; }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And even force the IPv6 address at :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ip6.starnux.net&#34;&gt;http://ip6.starnux.net&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;and get :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Votre adresse IP est 2001:41d1:b:5390::
+
+Vous accedez a ce serveur en IPv6
+
+JSON output : here
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Same for JSON :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ip6.starnux.net/json.php&#34;&gt;http://ip6.starnux.net/json.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{ &amp;quot;ip&amp;quot;: &amp;quot;2001:41d1:b:5390::&amp;quot;, &amp;quot;protocol&amp;quot;: &amp;quot;IPv6&amp;quot; }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And you can automate it from the terminal by running :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ wget -q http://ip6.starnux.net/json.php -O - | json_pp
+{
+	   &amp;quot;protocol&amp;quot; : &amp;quot;IPv6&amp;quot;,
+           &amp;quot;ip&amp;quot; : &amp;quot;2001:42d0:b:5291::&amp;quot;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And interpret the JSON in python, ruby, go, &amp;hellip; whatever !&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>GIT, GIT, … GIT !</title>
