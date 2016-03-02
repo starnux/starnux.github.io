@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ipv6 on Starnux.net - Home of Code</title>
-    <link>http://starnux.github.io/tags/ipv6/</link>
+    <link>http://www.starnux.net/tags/ipv6/</link>
     <description>Recent content in Ipv6 on Starnux.net - Home of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Mar 2016 09:49:01 +0100</lastBuildDate>
-    <atom:link href="http://starnux.github.io/tags/ipv6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.starnux.net/tags/ipv6/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>IP Address discovery service</title>
-      <link>http://starnux.github.io/post/ip/</link>
+      <link>http://www.starnux.net/post/ip/</link>
       <pubDate>Tue, 01 Mar 2016 09:49:01 +0100</pubDate>
       
-      <guid>http://starnux.github.io/post/ip/</guid>
+      <guid>http://www.starnux.net/post/ip/</guid>
       <description>&lt;p&gt;Starnux.net offer a very simple service :&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://ip.starnux.net&#34;&gt;http://ip.starnux.net&lt;/a&gt;&lt;/p&gt;
