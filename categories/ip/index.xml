@@ -10,7 +10,7 @@
     <atom:link href="http://starnux.github.io/categories/ip/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>IP Adress discovery service</title>
+      <title>IP Address discovery service</title>
       <link>http://starnux.github.io/post/ip/</link>
       <pubDate>Tue, 01 Mar 2016 09:49:01 +0100</pubDate>
       
@@ -19,7 +19,7 @@
 
 &lt;p&gt;&lt;a href=&#34;http://ip.starnux.net&#34;&gt;http://ip.starnux.net&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;That prints the current IP adress you are using :&lt;/p&gt;
+&lt;p&gt;That prints the current IP address you are using :&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;Votre adresse IP est 91.64.244.31
 
@@ -35,7 +35,7 @@ JSON output : here
 &lt;pre&gt;&lt;code&gt;{ &amp;quot;ip&amp;quot;: &amp;quot;91.64.244.31&amp;quot;, &amp;quot;protocol&amp;quot;: &amp;quot;IPv4&amp;quot; }
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;And even force the IPv6 adress at :&lt;/p&gt;
+&lt;p&gt;And even force the IPv6 address at :&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://ip6.starnux.net&#34;&gt;http://ip6.starnux.net&lt;/a&gt;&lt;/p&gt;
 
