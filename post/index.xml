@@ -6,8 +6,21 @@
     <description>Recent content in Posts on Starnux.net - Home of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Mar 2016 09:49:01 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 16 Dec 2016 09:25:40 +0100</lastBuildDate>
     <atom:link href="http://www.starnux.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Server !</title>
+      <link>http://www.starnux.net/post/server/</link>
+      <pubDate>Fri, 16 Dec 2016 09:25:40 +0100</pubDate>
+      
+      <guid>http://www.starnux.net/post/server/</guid>
+      <description>&lt;p&gt;New server running Starnux.net services !&lt;/p&gt;
+
+&lt;p&gt;Switching from a VIA Nano processor U2250 with 150GiB plat disk to a
+brand new dual-core Intel&amp;reg; Atom&amp;trade; CPU C2350 with 1GiB SSD !&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IP Address discovery service</title>
@@ -78,7 +91,7 @@ JSON output : here
 
 &lt;p&gt;=&amp;gt; &lt;a href=&#34;http://git.starnux.net&#34;&gt;http://git.starnux.net&lt;/a&gt; with school code and projects !&lt;/p&gt;
 
-&lt;p&gt;Access is with the git protocol : git clone git://git.starnux.net/theproject.git&lt;/p&gt;
+&lt;p&gt;Access is with the http protocol : git clone &lt;a href=&#34;http://git.starnux.net/cgit/theproject&#34;&gt;http://git.starnux.net/cgit/theproject&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
